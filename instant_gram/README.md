@@ -3,7 +3,7 @@
 * A clone for the instagram global app to approve mastery of procedural innovations.
 
 # User stories :
-    * As a user, I would like to concider authenticatication.
+    * As a user, I would like to concider being authenticatication.
     * As a user, I would like to get authenticated on login click.
     * As a user, I would like to log in.
     * As a user, I would like to create profile.
