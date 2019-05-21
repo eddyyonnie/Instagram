@@ -1,6 +1,6 @@
 # Instagram
 ## Description
-* A clone for the instagram global app to approve mastery of procedures.
+* A clone for the instagram global app to approve mastery of procedure.
 
 # User stories :
     * As a user, I would like to concider authenticatication.
