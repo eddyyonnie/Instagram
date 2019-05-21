@@ -1,6 +1,6 @@
 # Instagram
 ## Description
-* A clone for the ac instagram global app to approve mastery of codding procedures.
+* A clone for the a instagram global app to approve mastery of codding procedures.
 
 # User stories :
     * As a user, I would like to concider authenticatication.
