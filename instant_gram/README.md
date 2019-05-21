@@ -1,6 +1,6 @@
 # Instagram
 ## Description
-* A clone for the instagram global app to approve mastery of procedural.
+* A clone for the instagram global app to approve mastery of procedural in.
 
 # User stories :
     * As a user, I would like to concider authenticatication.
